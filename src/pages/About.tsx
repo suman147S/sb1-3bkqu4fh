@@ -63,7 +63,7 @@ export function About() {
       <div className="bg-white py-16">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <h2 className="text-3xl font-serif font-bold text-gray-900 mb-12 text-center">Our Leadership Team</h2>
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
+          <div className="grid grid-cols-1 sm:grid-cols-2 gap-8">
             {[
               {
                 name: "Suman Raj S",
@@ -73,12 +73,7 @@ export function About() {
               {
                 name: "Sowjanya S",
                 role: "Worship Leader",
-                image: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?auto=format&fit=crop&w=800&q=80"
-              },
-              {
-                name: "Navarathnamma",
-                role: "Senior Sister",
-                image: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=800&q=80"
+                image: "https://i.imgur.com/DXYVoZP.png"
               }
             ].map((member, index) => (
               <div key={index} className="text-center">

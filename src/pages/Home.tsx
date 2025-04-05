@@ -80,19 +80,19 @@ export function Home() {
             {[
               {
                 title: "Walking in Faith",
-                speaker: "Pastor John Smith",
+                speaker: "Brother Suman Raj S",
                 date: "March 24, 2025",
                 image: "https://images.unsplash.com/photo-1507692049790-de58290a4334?auto=format&fit=crop&w=800&q=80"
               },
               {
                 title: "The Power of Prayer",
-                speaker: "Pastor Sarah Johnson",
+                speaker: "Sister Sowjanya",
                 date: "March 17, 2025",
                 image: "https://images.unsplash.com/photo-1545987796-200677ee1011?auto=format&fit=crop&w=800&q=80"
               },
               {
                 title: "Living with Purpose",
-                speaker: "Pastor Michael Brown",
+                speaker: "Sister Navarathnamma",
                 date: "March 10, 2025",
                 image: "https://images.unsplash.com/photo-1504052434569-70ad5836ab65?auto=format&fit=crop&w=800&q=80"
               }
